@@ -1,0 +1,3 @@
+C:/Users/vovab/Documents/GitHub/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
+C:/Users/vovab/Documents/GitHub/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vovab/Documents/GitHub/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
