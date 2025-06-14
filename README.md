@@ -1,5 +1,4 @@
-# Game-of-Life
-v1.0
+# Game-of-Life v1.0
 My implementation of Conway's Game of Life in C++, using the Qt framework for visualization.
 - C++17
 - Qt 6.8.2
